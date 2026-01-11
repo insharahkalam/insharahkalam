@@ -1,49 +1,21 @@
-# Hi 👋 I'm Insharah Kalam  
+### Hi 👋 I'm Insharah Kalam  
+Frontend Developer | Learning MERN Stack
 
-### Frontend Developer | Learning MERN Stack  
 
----
 
-## 👩‍💻 About Me  
 
-I’m a **passionate Frontend Developer** and **aspiring MERN Stack Developer** from **Pakistan** 🇵🇰.  
-I enjoy building **responsive websites**, writing clean code, and continuously exploring **new web technologies** 🚀  
 
----
+ **A **passionate MERN Stack Developer** and **Frontend Developer** from Pakistan.  
+I love building **responsive websites** and exploring **new technologies**. 🚀  **
 
-## 🌱 Currently Learning  
-- Web & Mobile App Development  
-- JavaScript (Advanced Concepts)  
-- React & MERN Stack  
+ 
+- 🌱 I’m currently learning **Web and Mobile App Development**
 
----
+- 👨‍💻 All of my projects are available at https://github.com/insharahkalam
 
-## 🛠️ Skills  
-- HTML5  
-- CSS3  
-- Bootstrap  
-- JavaScript  
-- Git & GitHub  
+- 💬 Ask me about **html5, CSS3, javascript**
+  
+- 📫 How to reach me: insharahkalam19@gmail.com
 
----
+- ⚡ Fun fact: "I write my best code when the world is dreaming!"  
 
-## 📂 Projects  
-👨‍💻 All of my projects are available here:  
-🔗 **https://github.com/insharahkalam**
-
----
-
-## 💬 Ask Me About  
-- HTML5  
-- CSS3  
-- JavaScript  
-
----
-
-## 📫 Contact Me  
-📧 **Email:** insharahkalam19@gmail.com  
-
----
-
-## ⚡ Fun Fact  
-> *"I write my best code when the world is dreaming!"* 🌙💻  
