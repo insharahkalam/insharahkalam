@@ -1,4 +1,4 @@
-### Hi 👋 I'm Insharah Kalam  
+Hi 👋 I'm Insharah Kalam  
 Frontend Developer | Learning MERN Stack
 
 
@@ -19,3 +19,4 @@ I love building **responsive websites** and exploring **new technologies**. 🚀
 
 - ⚡ Fun fact: "I write my best code when the world is dreaming!"  
 
+isko thk kro heading wagera lgy 
