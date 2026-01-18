@@ -1,5 +1,5 @@
-## Hi 👋 I'm Insharah Kalam  
-Frontend Developer | Learning MERN Stack
+### Hi 👋 I'm Insharah Kalam  
+## Frontend Developer | Learning MERN Stack
 
 
 
@@ -13,10 +13,8 @@ I love building **responsive websites** and exploring **new technologies**. 🚀
 
 - 👨‍💻 All of my projects are available at https://github.com/insharahkalam
 
-- 💬 Ask me about **html5, CSS3, javascript**
+- 💬 Ask me about **Html5, CSS3, Javascript Bootstarp Tailwind React Next-js**
   
 - 📫 How to reach me: insharahkalam19@gmail.com
 
 - ⚡ Fun fact: "I write my best code when the world is dreaming!"  
-
-isko thk kro heading wagera lgy 
