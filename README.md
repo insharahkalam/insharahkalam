@@ -1,5 +1,5 @@
 <h1 align="start">Hi 👋, I'm Insharah Kalam</h1>
-<h2 align="center">A passionate frontend developer from Pakistan</h3>
+<h2 align="center">A passionate frontend developer from Pakistan</h2>
 
 - 🌱 I’m currently learning **Backend Development**
 - 
