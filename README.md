@@ -1,8 +1,8 @@
-<h1 align="start">Hi 👋, I'm Insharah Kalam</h1>
-<h2 align="center">A passionate frontend developer from Pakistan</h2>
+<h1 align="center">Hi 👋, I'm Insharah Kalam</h1>
+<h3 align="center">A passionate frontend developer from Pakistan</h3>
 
 - 🌱 I’m currently learning **Backend Development**
-- 
+
 - 🤝 I’m looking for help with **building real-world web applications**
 
 - 👨‍💻 All of my projects are available at [https://github.com/insharahkalam?tab=repositories](https://github.com/insharahkalam?tab=repositories)
@@ -18,6 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/insharah-kalam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/insharah-kalam/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/bint.e.kalam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/bint.e.kalam/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
