@@ -1,27 +1,88 @@
-<h1 align="center">Hi, I'm Insharah Kalam</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h1 align="center">Hi there, I'm Insharah Kalam 👋</h1>
+<h3 align="center">MERN Stack Developer | Building modern, responsive web applications</h3>
 
-- 🌱 I’m currently learning **Backend Development**
-
-- 🤝 I’m looking for help with **building real-world web applications**
-
-- 👨‍💻 All of my projects are available at [https://github.com/insharahkalam?tab=repositories](https://github.com/insharahkalam?tab=repositories)
-
-- 💬 Ask me about **Html Css Javascript Bootstrap Tailwind Css React Next-js**
-
-- 📫 How to reach me **insharahkalam19@gmail.com**
-
-- 📄 Know about my experiences [https://myportfolio-three-mu-88.vercel.app/assets/frontend-cv-CGHFp1D2.pdf](https://myportfolio-three-mu-88.vercel.app/assets/frontend-cv-CGHFp1D2.pdf)
-
-- ⚡ Fun fact **I’m constantly learning and building projects to sharpen my frontend skills.**
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/insharah-kalam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="insharah-kalam" height="30" width="40" /></a>
-<a href="https://instagram.com/bint.e.kalam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bint.e.kalam" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/insharah_kalam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="insharah_kalam" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/insharah-kalam" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:insharahkalam19@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
+
+### 🚀 About Me
+
+- 🎯 Motivated and detail-oriented **MERN Stack Developer** with hands-on experience building modern, responsive web applications
+- 🛠️ Skilled in **MongoDB, Express.js, React.js, and Node.js**
+- 🔗 Experienced in RESTful APIs, authentication, and database management
+- 📚 Currently pursuing Intermediate in Computer Science at Abdullah Government College for Women, Karachi
+- 💡 Passionate about clean code, optimized performance, and continuous learning in emerging web technologies
+
+---
+
+### 💼 Experience
+
+**Front-End Developer Intern — Incology System** *(3 months)*
+- Contributed to responsive web app development using React, Next.js, TypeScript, HTML, CSS, and JavaScript
+- Collaborated with the UI/UX team to improve design consistency
+- Used Git and GitHub for version control and collaborative development
+- Assisted in integrating Supabase for authentication and real-time database features
+
+**Front-End Developer Intern — Developer Hub Corporation** *(3 months)*
+- Built dynamic, user-friendly web pages using React and Tailwind CSS
+- Worked on component optimization and API integration
+- Collaborated with senior developers on front-end best practices and deployment
+
+---
+
+### 🧰 Tech Stack
+
+**Frontend**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+
+**Styling & UI**
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+
+**Tools & Database**
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+---
+
+### 🌟 Featured Project
+
+**[ThinkBoard](https://thinkboard-frontend-pink.vercel.app)** — A full-stack MERN application
+🔗 Live Demo: [thinkboard-frontend-pink.vercel.app](https://thinkboard-frontend-pink.vercel.app)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=insharahkalam&show_icons=true&theme=default" alt="Insharah's GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=insharahkalam" alt="Insharah's GitHub Streak" height="165"/>
+</p>
+
+---
+
+### 📫 Let's Connect
+
+- 📧 Email: insharahkalam19@gmail.com
+- 💼 LinkedIn: [insharah-kalam](https://www.linkedin.com/in/insharah-kalam)
+- 📍 Karachi, Pakistan
+
+<p align="center"><i>Thanks for visiting my profile! ⭐ Feel free to explore my repositories.</i></p>
