@@ -1,15 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=200&section=header&text=&fontSize=0"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=300&section=header&text=Insharah%20Kalam&fontSize=58&fontColor=ffffff&fontFamily=Righteous&fontAlignY=38&animation=fadeIn&desc=MERN%20Stack%20Developer&descSize=22&descAlignY=58&descAlign=50&descColor=A78BFA"/>
 
 <br/>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="130"/>
 
-<h1 align="center">Hi, I'm Insharah Kalam 👋</h1>
-
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=680&lines=Hi+%F0%9F%91%8B+I'm+Insharah+Kalam;MERN+Stack+Developer;Building+Modern+%26+Scalable+Web+Experiences;Currently+Exploring+Python+%F0%9F%90%8D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=680&lines=Building+Modern+%26+Scalable+Web+Experiences;Full-Stack+Development;Currently+Exploring+Python+%F0%9F%90%8D" alt="Typing SVG" />
 </a>
 
 <p align="center">
