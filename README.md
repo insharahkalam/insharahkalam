@@ -7,12 +7,10 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="130"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=680&lines=Building+Modern+%26+Scalable+Web+Experiences;Full-Stack+Development;Currently+Exploring+Python+%F0%9F%90%8D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=400&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=680&lines=Building+Modern+%26+Scalable+Web+Experiences;Full-Stack+Development;Currently+Exploring+Python+%F0%9F%90%8D" alt="Typing SVG" />
 </a>
 
-<p align="center">
-  <i>Crafting modern, scalable, and user-focused web experiences.</i>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=55&text=Crafting%20modern%2C%20scalable%2C%20and%20user-focused%20web%20experiences.&fontSize=17&fontColor=C9D1D9&fontFamily=Righteous&fontAlignY=60&animation=fadeIn"/>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="3px">
 
@@ -20,7 +18,7 @@
 
 <br/>
 
-## 👋 About Me
+### 👋 <img src="https://capsule-render.vercel.app/api?type=transparent&height=70&text=About%20Me&fontSize=32&fontColor=A78BFA&fontFamily=Righteous&fontAlignY=68&animation=fadeIn" align="center"/>
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="280">
 
@@ -34,7 +32,7 @@ Right now, I'm expanding my programming foundation by **learning Python 🐍**.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="3px">
 
-## 🧰 Tech Stack
+### 🧰 <img src="https://capsule-render.vercel.app/api?type=transparent&height=70&text=Tech%20Stack&fontSize=32&fontColor=A78BFA&fontFamily=Righteous&fontAlignY=68&animation=fadeIn" align="center"/>
 
 <div align="center">
 
@@ -48,7 +46,7 @@ Right now, I'm expanding my programming foundation by **learning Python 🐍**.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="3px">
 
-## 🎯 What I Focus On
+### 🎯 <img src="https://capsule-render.vercel.app/api?type=transparent&height=70&text=What%20I%20Focus%20On&fontSize=32&fontColor=A78BFA&fontFamily=Righteous&fontAlignY=68&animation=fadeIn" align="center"/>
 
 <div align="center">
 
@@ -72,7 +70,7 @@ Right now, I'm expanding my programming foundation by **learning Python 🐍**.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="3px">
 
-## 📊 GitHub Analytics
+### 📊 <img src="https://capsule-render.vercel.app/api?type=transparent&height=70&text=GitHub%20Analytics&fontSize=32&fontColor=A78BFA&fontFamily=Righteous&fontAlignY=68&animation=fadeIn" align="center"/>
 
 <div align="center">
 
@@ -87,7 +85,7 @@ Right now, I'm expanding my programming foundation by **learning Python 🐍**.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="3px">
 
-## 🐍 Contribution Activity
+### 🐍 <img src="https://capsule-render.vercel.app/api?type=transparent&height=70&text=Contribution%20Activity&fontSize=32&fontColor=A78BFA&fontFamily=Righteous&fontAlignY=68&animation=fadeIn" align="center"/>
 
 <div align="center">
 
@@ -99,7 +97,7 @@ Right now, I'm expanding my programming foundation by **learning Python 🐍**.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="3px">
 
-## 🌐 Connect With Me
+### 🌐 <img src="https://capsule-render.vercel.app/api?type=transparent&height=70&text=Connect%20With%20Me&fontSize=32&fontColor=A78BFA&fontFamily=Righteous&fontAlignY=68&animation=fadeIn" align="center"/>
 
 <div align="center">
 
@@ -123,7 +121,7 @@ Right now, I'm expanding my programming foundation by **learning Python 🐍**.
 
 <br/><br/>
 
-<i>Thanks for visiting my profile ✨</i>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=55&text=Thanks%20for%20visiting%20my%20profile%20%E2%9C%A8&fontSize=18&fontColor=C9D1D9&fontFamily=Righteous&fontAlignY=60&animation=fadeIn"/>
 
 <br/>
 
