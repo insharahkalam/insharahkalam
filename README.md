@@ -1,206 +1,134 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=68&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&height=110&lines=Insharah+Kalam" alt="Insharah Kalam" />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=18&duration=3500&pause=800&color=8A8A8A&center=true&vCenter=true&width=800&lines=%E2%9C%A6+MERN+Stack+Developer+%E2%9C%A6;%E2%9C%A6+Crafting+Digital+Experiences+from+Karachi+%F0%9F%87%B5%F0%9F%87%B0+%E2%9C%A6;%E2%9C%A6+Turning+Ideas+into+Clean%2C+Scalable+Code+%E2%9C%A6;%E2%9C%A6+Always+Learning%2C+Always+Building+%E2%9C%A6" alt="Tagline" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=200&section=header&text=&fontSize=0"/>
 
 <br/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=insharahkalam&label=Profile%20Views&color=000000&style=for-the-badge" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/followers/insharahkalam?label=Followers&style=for-the-badge&color=000000&labelColor=FFFFFF" />
-</p>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="130"/>
+
+<h1 align="center">Hi, I'm Insharah Kalam 👋</h1>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=680&lines=Hi+%F0%9F%91%8B+I'm+Insharah+Kalam;MERN+Stack+Developer;Building+Modern+%26+Scalable+Web+Experiences;Currently+Exploring+Python+%F0%9F%90%8D" alt="Typing SVG" />
+</a>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-MERN%20Stack-000000?style=for-the-badge&labelColor=FFFFFF" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-000000?style=for-the-badge&labelColor=FFFFFF" />
+  <i>Crafting modern, scalable, and user-focused web experiences.</i>
 </p>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="3px">
 
 </div>
 
 <br/>
 
-<!-- ─────────────────────────────  ABOUT  ────────────────────────────── -->
+## 👋 About Me
 
-## ✦ &nbsp; About Me
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="280">
 
-<img align="right" alt="coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+I'm a **MERN Stack Developer** who builds modern, responsive, and full-stack web applications. I focus on writing clean, well-structured code and designing interfaces that feel intuitive and user-friendly.
 
-> *"Clean code is not written by following a set of rules. It's written by someone who cares."*
+I enjoy solving problems, learning new technologies, and continuously sharpening my development skills.
 
-I'm a **motivated and detail-oriented MERN Stack Developer** with hands-on experience building modern, responsive web applications. My playground is the intersection of **thoughtful UI** and **scalable backend architecture** — where design meets logic.
-
-- 🌱 &nbsp; **Currently learning** — Python Programming
-- 🎓 &nbsp; **Education** — Intermediate in Computer Science @ Abdullah Government College for Women, Karachi
-- 💼 &nbsp; **Specializing in** — MongoDB · Express.js · React.js · Node.js
-- 🔐 &nbsp; **Experienced with** — RESTful APIs, JWT Authentication, Database Design
-- 📍 &nbsp; **Based in** — Karachi, Pakistan 🇵🇰
-- ⚡ &nbsp; **Fun fact** — I debug with `console.log` and I'm not ashamed of it 🐛
-- 💌 &nbsp; **Reach me at** — **insharahkalam19@gmail.com**
+Right now, I'm expanding my programming foundation by **learning Python 🐍**.
 
 <br clear="right"/>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="3px">
 
-<!-- ─────────────────────────────  STACK  ────────────────────────────── -->
+## 🧰 Tech Stack
 
-## ✦ &nbsp; Tech Arsenal
+<div align="center">
 
-<div align="left">
-  
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=white)
-![DaisyUI](https://img.shields.io/badge/DaisyUI-000000?style=for-the-badge&logo=daisyui&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-000000?style=for-the-badge&logo=framer&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=fastapi&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-000000?style=for-the-badge&logo=mongoose&logoColor=white)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=white)
-![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white)
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,react,nextjs,nodejs,express,mongodb,supabase,redux,git,github,vercel,postman,py&theme=dark&perline=9" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Python-Currently_Learning_🐍-A78BFA?style=for-the-badge&labelColor=0D1117"/>
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="3px">
 
-<!-- ─────────────────────────  FEATURED PROJECT  ─────────────────────── -->
-
-## ✦ &nbsp; Featured Project
+## 🎯 What I Focus On
 
 <div align="center">
 
 <table>
 <tr>
-<td width="55%" valign="top">
-
-### 🛒 &nbsp; E-Commerce Platform
-
-**A full-featured e-commerce web app with secure authentication and a smooth shopping experience.**
-
-Built end-to-end with the **MERN stack** — from schema design to pixel-perfect UI. Includes user authentication, product browsing, and a clean, responsive storefront designed for a real-world shopping flow.
-
-**✨ &nbsp; Key Features**
-- 🔐 &nbsp; Secure user authentication & authorization
-- 🛍️ &nbsp; Product listing & browsing experience
-- 🎨 &nbsp; Fully responsive interface (mobile → desktop)
-- 🌐 &nbsp; RESTful API architecture with clean separation
-- 💾 &nbsp; MongoDB persistence with Mongoose schemas
-- 🚀 &nbsp; Deployed on Vercel for global reach
-
-**🧪 &nbsp; Stack**
-`React` `Node.js` `Express` `MongoDB` `Tailwind CSS`
-
-<br/>
-
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-000000?style=for-the-badge&labelColor=FFFFFF)](https://fronten-auth.vercel.app/)
-[![Source Code](https://img.shields.io/badge/💻_Source_Code-FFFFFF?style=for-the-badge&labelColor=000000)](https://github.com/insharahkalam/fronten-auth)
-
-</td>
-<td width="45%" valign="middle" align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" />
-
-<sub><i>🛒 Shop smarter, built with MERN</i></sub>
-
-</td>
+<td align="center" width="33%">✨<br/><b>Full-Stack<br/>Web Development</b></td>
+<td align="center" width="33%">⚡<br/><b>Modern React<br/>Applications</b></td>
+<td align="center" width="33%">🎨<br/><b>Clean & Responsive<br/>UI</b></td>
+</tr>
+<tr>
+<td align="center" width="33%">🔐<br/><b>Authentication &<br/>Authorization</b></td>
+<td align="center" width="33%">🔗<br/><b>REST API<br/>Integration</b></td>
+<td align="center" width="33%">🗄️<br/><b>Database<br/>Integration</b></td>
+</tr>
+<tr>
+<td align="center" colspan="3">📈<br/><b>Continuous Learning</b></td>
 </tr>
 </table>
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="3px">
 
-<!-- ─────────────────────────  GITHUB STATS  ─────────────────────────── -->
-
-## ✦ &nbsp; GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=insharahkalam&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF" />
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=insharahkalam&theme=dark&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=8A8A8A" />
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&stroke=A78BFA&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" height="165"/>
 
-<br/><br/>
+<br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=insharahkalam&layout=compact&theme=default&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&langs_count=8" width="45%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" height="165"/>
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="3px">
 
-<!-- ─────────────────────  ACTIVITY & SNAKE  ─────────────────────────── -->
-
-## ✦ &nbsp; Contribution Journey
+## 🐍 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=insharahkalam&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution+Graph" width="100%" />
+<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%"/>
 
 </div>
 
----
+> 💡 To activate the animated snake graph, add the [`platane/snk`](https://github.com/Platane/snk) GitHub Action to your profile repository (setup steps are in that repo's README).
 
-<!-- ─────────────────────────  CONNECT  ──────────────────────────────── -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="3px">
 
-## ✦ &nbsp; Let's Build Something Together
+## 🌐 Connect With Me
 
 <div align="center">
 
-<p>
-<i>Whether it's collaborating on an open-source project, discussing tech,<br/>
-or just saying <b>Salam</b> — my inbox is always open. Let's connect! ✨</i>
-</p>
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-A78BFA?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:your.email@example.com">
+  <img src="https://img.shields.io/badge/Email-A78BFA?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-A78BFA?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+</div>
 
 <br/>
 
-<a href="mailto:insharahkalam19@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/insharah-kalam">
-  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://github.com/insharahkalam">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-&nbsp;
-<img src="https://img.shields.io/badge/Karachi,_Pakistan-000000?style=for-the-badge&logo=googlemaps&logoColor=white" />
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=A78BFA&style=flat" />
 
 <br/><br/>
 
-📧 &nbsp; **insharahkalam19@gmail.com** &nbsp;·&nbsp; 💼 &nbsp; **[LinkedIn](https://www.linkedin.com/in/insharah-kalam)** &nbsp;·&nbsp; 📍 &nbsp; **Karachi, Pakistan**
+<i>Thanks for visiting my profile ✨</i>
 
 <br/>
 
----
-
-<br/>
-
-### 💭 &nbsp; *"First, solve the problem. Then, write the code."*
-
-<sub>— John Johnson</sub>
-
-<br/><br/>
-
-⭐ &nbsp; **Thanks for stopping by!** &nbsp; Feel free to explore my repositories and drop a star if you like something.
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-
-<sub>Made with 🖤 and lots of <code>console.log()</code> by <b>Insharah Kalam</b></sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,50:302B63,100:0F0C29&height=120&section=footer"/>
 
 </div>
